@@ -1,5 +1,8 @@
 ## 复仇时刻RN 0.99.G0615P2更新说明
 
+*[Bug#188]联机时古巴的自爆飞机被击落会造成崩溃和断线
+* 加强了对RE(reconnection error)问题的信息收集机制
+
 ***
 
 ## 复仇时刻RN 0.99.G0615P1更新说明
@@ -7,7 +10,7 @@
 * [Bug#167]修正了苏系阵营的国家存在核能反应堆时，被摧毁无法判定该所属方失败的Bug
 
 [Bug#167]:https://github.com/Zero-Fanker/RN_All_Issues/issues/167
-
+[Bug#188]:https://github.com/Zero-Fanker/RN_All_Issues/issues/188
 
 ***
 
