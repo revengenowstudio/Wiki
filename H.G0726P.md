@@ -3,6 +3,13 @@
 * 本次启动器更新将会尝试自动给Win7 及以上用户的 RA2MD.EXE YURI.EXE RunRN.EXE GameRN.EXE GameMD.EXE获取管理员权限，并给GameRN.EXE GameMD.EXE设置16色
 * [Bug#58]光棱坦克反甲能力下调至原来的一半（恢复到原版YR数值），移动攻击能力得到保留
 * [Bug#132]英国观察员召唤的智能炸弹可以被铁幕和立场护盾影响，这将不再被允许
+* [Bug#123]尤里空投炸弹之前可以被神经突击毒气影响，现在不会再受到影响
+* [Adjustment#108]法国气象塔补上了雷暴技能的环境云层动画，同时修正了闲置动画不连续的问题
+* [Bug#195]古巴自爆飞机出厂时会出现在盟军的停机平台上，而不受停机平台机位控制，现在盟军停机平台不再允许生产出自爆飞机
+* 修正了内测盟军第三关任务目标一完成后，援军中的圣骑士战甲无法正确登场的问题
+* 修正了有时AI的特殊小队会导致游戏崩溃的问题（建筑目标编写错误）
+* 针对AI工程师小队进行微调，增加了AI消除冗余工程师单位的措施
+* 对苏军第一关任务的AI小队进行了调整
 
 ***
 
@@ -25,7 +32,9 @@
 [Bug#188]:https://github.com/Zero-Fanker/RN_All_Issues/issues/188
 [Bug#58]:https://github.com/Zero-Fanker/RN_All_Issues/issues/58
 [Bug#132]:https://github.com/Zero-Fanker/RN_All_Issues/issues/132
-
+[Bug#123]:https://github.com/Zero-Fanker/RN_All_Issues/issues/123
+[Bug#195]:https://github.com/Zero-Fanker/RN_All_Issues/issues/195
+[Adjustment#108]:https://github.com/Zero-Fanker/RN_Internal_Issues/issues/108
 
 ***
 
