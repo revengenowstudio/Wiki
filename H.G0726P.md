@@ -2,7 +2,7 @@
 * 重构了RE(reconnection error)收集机制的文件写入，恢复了旧版方式的内容写入
 * 本次启动器更新将会尝试自动给Win7 及以上用户的 RA2MD.EXE YURI.EXE RunRN.EXE GameRN.EXE GameMD.EXE获取管理员权限，并给GameRN.EXE GameMD.EXE设置16色
 * [Bug#58]光棱坦克反甲能力下调至原来的一半（恢复到原版YR数值），移动攻击能力得到保留
-* 
+* [Bug#132]英国观察员召唤的智能炸弹可以被铁幕和立场护盾影响，这将不再被允许
 
 ***
 
@@ -24,6 +24,8 @@
 [Bug#167]:https://github.com/Zero-Fanker/RN_All_Issues/issues/167
 [Bug#188]:https://github.com/Zero-Fanker/RN_All_Issues/issues/188
 [Bug#58]:https://github.com/Zero-Fanker/RN_All_Issues/issues/58
+[Bug#132]:https://github.com/Zero-Fanker/RN_All_Issues/issues/132
+
 
 ***
 
