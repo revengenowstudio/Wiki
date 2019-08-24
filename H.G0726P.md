@@ -66,6 +66,9 @@
 14. [Bug#82]：修复盟军掷弹兵攻击时可能导致crash
 15. [Bug#71]：照明灯赋予了少量视野，但仅能显示探照灯本身
 16. 启动器重构，修复了稳定性问题。
+17. 完成古巴荣耀战士设定。
+18. 尤里T4兽人三兄弟狂暴分子完成（音效待更新）。
+19. 盟军暴风摩托数据和音效完成。
 
 [Bug#45]:https://github.com/Zero-Fanker/RN_All_Issues/issues/45
 [Bug#61]:https://github.com/Zero-Fanker/RN_All_Issues/issues/61
