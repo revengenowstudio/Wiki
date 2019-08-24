@@ -52,4 +52,7 @@
 本次更新具体内容：
 1. 修正Bug #61：苏军任务1-红色沙文，逮捕将军后无法通关；
 2. 修正Bug #45: TR旧任务尤里第一关，心灵信标部署无效果，任务四无法达成，卡关；
-3. 修正Crash #67: TR旧任务-盟军黑森林开局核弹爆炸时导致crash。
+3. 修正[Bug#67]: TR旧任务-盟军黑森林开局核弹爆炸时导致crash。
+
+
+[Bug#67]:https://github.com/Zero-Fanker/RN_All_Issues/issues/67
