@@ -50,9 +50,35 @@
 6. 开放主线任务盟军第三关(非最终版本)
 
 本次更新具体内容：
-1. 修正Bug #61：苏军任务1-红色沙文，逮捕将军后无法通关；
-2. 修正Bug #45: TR旧任务尤里第一关，心灵信标部署无效果，任务四无法达成，卡关；
+1. 修正[Bug#61]：苏军任务1-红色沙文，逮捕将军后无法通关；
+2. 修正[Bug#45]: TR旧任务尤里第一关，心灵信标部署无效果，任务四无法达成，卡关；
 3. 修正[Bug#67]: TR旧任务-盟军黑森林开局核弹爆炸时导致crash。
+4. 修正了[Bug#76]，敌友关系发生改变时可能导致敌方隐形单位直接可见
+5. 修正了[Bug#81]，12.31反馈的crashdump，与部分武器伤害判定有关联
+6. 修正了[Bug#79]，满血的建筑可能会残留维修扳手状态
+7. [Adjustment#20]:启动器上可以显示当前版本号
+8. [Adjustment#33]:中立方钻矿设备默认设置为可被占领
+9. [Bug#73]:加强烈焰核心，速度4，HP1400，自毁状态免疫心控
+10. [Bug#74]:苏1任务调整，友军颜色改为深红，伊文重合修正，部分布局调整
+11. [Bug#48]:地图-骑马天堂修正地形错误和科技建筑摆放错误
+12. [Bug#66]:尤里钻地突击车平地运动和钻地运动模式选择不明确修正
+13. [Bug#83]:石油大亨模式中古巴/法国无法顺利延伸科技树
+14. [Bug#82]:修复盟军掷弹兵攻击时可能导致crash
+15. [Bug#71]: 照明灯赋予了少量视野，但仅能显示探照灯本身
+16. 启动器重构，修复了稳定性问题。
 
-
+[Bug#45]:https://github.com/Zero-Fanker/RN_All_Issues/issues/45
+[Bug#61]:https://github.com/Zero-Fanker/RN_All_Issues/issues/61
 [Bug#67]:https://github.com/Zero-Fanker/RN_All_Issues/issues/67
+[Bug#76]:https://github.com/Zero-Fanker/RN_All_Issues/issues/76
+[Bug#79]:https://github.com/Zero-Fanker/RN_All_Issues/issues/79
+[Bug#81]:https://github.com/Zero-Fanker/RN_All_Issues/issues/81
+[Bug#73]:https://github.com/Zero-Fanker/RN_All_Issues/issues/73
+[Bug#74]:https://github.com/Zero-Fanker/RN_All_Issues/issues/74
+[Bug#48]:https://github.com/Zero-Fanker/RN_All_Issues/issues/48
+[Bug#66]:https://github.com/Zero-Fanker/RN_All_Issues/issues/66
+[Bug#83]:https://github.com/Zero-Fanker/RN_All_Issues/issues/83
+[Bug#82]:https://github.com/Zero-Fanker/RN_All_Issues/issues/82
+[Bug#71]: https://github.com/Zero-Fanker/RN_All_Issues/issues/71
+[Adjustment#20]:https://github.com/Zero-Fanker/RN_Internal_Issues/issues/20
+[Adjustment#33]:https://github.com/Zero-Fanker/RN_Internal_Issues/issues/33
