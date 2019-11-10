@@ -3,7 +3,7 @@
 ***
 
 ![](./FATAL.png)
-
+ 
  - 缺少**管理员权限**。
 
    - 请将Launcher.exe、RA2MD.exe、RunRN.exe、GameRN.exe、YURI.exe、GameMD.exe添加管理员权限。
