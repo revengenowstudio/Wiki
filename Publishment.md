@@ -38,3 +38,5 @@ jingyan.baidu.com/article/49711c61478e7bfa441b7cc0.html
 如果你对游戏扩展的内容有任何意见或建议，欢迎在Github、帖吧、QQ群等社区进行反馈和讨论，联系方式详见本文档最底部。如果复仇时刻的扩展内容侵犯到了你的合理权益，请联系制作组协商解决。
 此外，Bug反馈页面已经迁移到Github，原先的Bitbucket不再使用，详见：https://github.com/Zero-Fanker/RN_All_Issues/issues  ，任何疑问或者Bug反馈都可以在这个页面提交内容，提交时可选择已有模板，请注意格式要求。Github社区的帐户是免费的，可以放心注册。
 
+## 下载地址  
+* 度盘：https://pan.baidu.com/s/1zA8GT4GG8aWs8hG-A8m3Nw  提取码：uxv7 
