@@ -216,3 +216,15 @@ D. Bug修复
 ## 制作人员信息及鸣谢
 
 ![credit](pics_2019/CreditsRN.png)
+
+## ====联系我们====
+
+1. 复仇时刻Github首页：<github.com/Zero-Fanker/Revenge-Now/wiki>
+2. 复仇时刻百度贴吧：<tieba.baidu.com/f?kw=%B8%B4%B3%F0%CA%B1%BF%CC&fr=ala0&tpl=5>
+3. 复仇时刻永硕网盘：<www.tr-publish.ys168.com/>
+4. Ares平台官网：<www.ares.strategy-x.com>
+5. 获取最新消息与反馈（RN与TR发布区）  
+
+QQ群：78429643  
+QQ邮箱：zcyfksn@vip.qq.com  
+163邮箱：zcyfksn1995@163.com  
