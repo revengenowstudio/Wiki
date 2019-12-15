@@ -39,6 +39,6 @@ jingyan.baidu.com/article/49711c61478e7bfa441b7cc0.html
 此外，Bug反馈页面已经迁移到Github，原先的Bitbucket不再使用，详见：https://github.com/Zero-Fanker/RN_All_Issues/issues  ，任何疑问或者Bug反馈都可以在这个页面提交内容，提交时可选择已有模板，请注意格式要求。Github社区的帐户是免费的，可以放心注册。
 
 ## 下载地址  
-* 度盘：【独立安装包，不可用于YR，不可覆盖安装旧版】  https://pan.baidu.com/s/1zA8GT4GG8aWs8hG-A8m3Nw  提取码：uxv7 
-    【更新程序，需要0.98.728及以上版本】    
+* 度盘：【独立安装包，不可用于YR，不可覆盖安装旧版】  https://pan.baidu.com/s/1zA8GT4GG8aWs8hG-A8m3Nw  提取码：uxv7  
+    【更新程序，需要0.98.728及以上版本】    （上传中）
 * 腾讯云：（上传中）
