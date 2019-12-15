@@ -51,9 +51,9 @@ jingyan.baidu.com/article/49711c61478e7bfa441b7cc0.html
 ## 下载地址
 
 * 度盘：  
-    -【独立安装包，不可用于YR，不可覆盖安装旧版】  <https://pan.baidu.com/s/1zA8GT4GG8aWs8hG-A8m3Nw> 提取码：uxv7  
-    -【更新程序，需要0.98.728及以上版本】  <https://pan.baidu.com/s/1mObCsx0XTlOgnHLpX9WsVg>
-提取码：71pb  
+    -【独立安装包，不可用于YR，不可覆盖安装旧版】  <回撤修正> 提取码：  
+    -【更新程序，需要0.98.728及以上版本】  <回撤修正>
+提取码：  
 * 腾讯云：（上传中）
 
 ## 制作人员信息及鸣谢
