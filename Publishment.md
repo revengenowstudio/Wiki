@@ -205,6 +205,8 @@ D. Bug修复
 
 ## 下载地址
 
+度盘下载助手: <http://pandownload.com/>
+
 * 度盘：  
     -【独立安装包，不可用于YR，不可覆盖安装旧版】  <https://pan.baidu.com/s/1zQkyukG9XXc8RsNG6e9eWQ> 提取码:hf3b  
     -【更新程序，需要0.98.728及以上版本】  <https://pan.baidu.com/s/12REWdUxwiMPhFMf5A4LrEQ>
