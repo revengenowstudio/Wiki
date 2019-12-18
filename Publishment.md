@@ -219,7 +219,7 @@ D. Bug修复
     -【更新程序，需要0.98.728及以上版本】  <https://pan.baidu.com/s/12REWdUxwiMPhFMf5A4LrEQ>
 提取码:8y0p  
 * 腾讯云：（上传中）
-* MODDB:
+* MODDB:  
 https://www.moddb.com/mods/revenge-now/downloads/revenge-now-099g1208-standalone
 
 ## 制作人员信息及鸣谢
