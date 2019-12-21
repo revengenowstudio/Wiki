@@ -1,1 +1,1 @@
-![](./launcherB error.png)
+![](./launcherB.png)
