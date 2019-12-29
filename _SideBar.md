@@ -24,6 +24,7 @@
       - [错误代码：0x2e4](./错误代码：0x2e4)
       - [右侧建造栏无法显示](./右侧建造栏无法显示)
       - [* * * FATAL * * * string Manager failed to initilaized properly](./FATAL弹窗的解决方法)
+      - [windows‘找不到launcherB’](./windows找不到launcherB)
 
   4. **与好友联机问题**
       - [使用第三方对战平台](./使用第三方对战平台)
