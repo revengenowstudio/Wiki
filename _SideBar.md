@@ -22,7 +22,7 @@
       - [游戏中按钮，图标偏离](游戏中按钮，图标偏离)
       - [无法设定显示模式](./无法设定显示模式)
       - [错误代码：0x2e4](./错误代码：0x2e4)
-      - [右侧建造栏无法显示](./右侧建造栏无法显示)
+      - [右侧建造栏无法显示完全](./右侧建造栏无法显示完全)
       - [* * * FATAL * * * string Manager failed to initilaized properly](./FATAL弹窗的解决方法)
       - [windows‘找不到launcherB’](./windows找不到launcherB)
 
