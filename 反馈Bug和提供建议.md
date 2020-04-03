@@ -7,6 +7,8 @@
 
 - 注意：提单反馈bug的时候**请务必按照格式**，有条件可以带演示bug的gif以及存档（**注意版本号**），debug文件不要上传到GitHub，而是提交到制作者邮箱。若不清楚如何提交debug文件，请看：[**debug文件的提交方法**](debug文件的处理方法)
 
+- 若单子的信息或者格式有误，请在公测群和服务器寻找客服或者管理员帮忙修改
+
 - github用户注册教程：https://blog.csdn.net/relyeditor/article/details/85602142
 （建议使用Chrome或火狐浏览器）
 
