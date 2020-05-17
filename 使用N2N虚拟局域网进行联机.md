@@ -62,7 +62,7 @@
 
 选择这个网卡![](./n2nphoto125.png)并右键
 
-然后打开属性![](./n2nphoto126.png)，找到![](./n2nphoto1 27.png)
+然后打开属性![](./n2nphoto126.png)，找到![](./n2nphoto127.png)
 
 选中后在点击![](./n2nphoto128.png)按钮，接着点击![](./n2nphoto129.png)按钮
 
@@ -90,7 +90,4 @@ https://bugxia.com/1770.html
 
 参见教程：https://wenku.baidu.com/view/ae2c9245a8956bec0975e3d8.html
 
-若还有其他问题，请联系服务器或者公测群的客服
-
-
-
+若还有其他问题，请联系服务器或
