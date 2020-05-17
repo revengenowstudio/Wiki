@@ -10,7 +10,7 @@
 - **若issue的信息或者格式有误，请在公测群和服务器寻找客服或者管理员帮忙修改**，**请勿重复提交issue！！！**
 
 - github用户注册教程：https://blog.csdn.net/relyeditor/article/details/85602142
-（建议使用Chrome或火狐浏览器）
+（建议使用Chrome或火狐浏览器，部分浏览器会屏蔽github）
 
 
 ***
