@@ -25,12 +25,14 @@
 
   - 点击[](./n2nphoto112.png)按钮打开软件调试窗口，用来查看是否连接成功
 
-[](./n2nphoto116.png)
+![](./n2nphoto116.png)
 
-[](./n2nphoto117.png)
+![](./n2nphoto117.png)
+
+![](./n2nphoto119.1.png)
 
 
-- 5、键盘Win+R键，打开运行，输入cmd，回车，在命令行窗口下，输入 ping xxx.xxx.xxx.xxx(另一位玩家的ip地址）（ip地址可不同，ping你朋友的ip地址）[](./n2nphoto119.png)![](./n2nphoto119.1.png)。若成功，会出现延迟（时间）
+- 5、键盘Win+R键，打开运行，输入cmd，回车，在命令行窗口下，输入 ping xxx.xxx.xxx.xxx(另一位玩家的ip地址）（ip地址可不同，ping你朋友的ip地址）![](./n2nphoto119.png)。若成功，会出现延迟（时间）
 
 
 
