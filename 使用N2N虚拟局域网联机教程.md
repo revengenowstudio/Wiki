@@ -10,7 +10,7 @@
 
 
 
-- 3、打开![](./n2nphoto17.png)，上方的下拉菜单选择![](./n2nphoto18.png)虚拟网卡，下边的列表也是选中这个网卡![](./n2nphoto18.1.png)，其余默认即可（若未关闭防火墙，请勾选![](./n2nphoto18.2.png)），设置完成后，点击按钮，然后点击![](./n2nphoto18.3.png)按钮![](./n2nphoto18.4.png)
+- 3、打开![](./n2nphoto17.png)，上方的下拉菜单选择![](./n2nphoto18.png)虚拟网卡，下边的列表也是选中这个网卡![](./n2nphoto18.1.png)，其余默认即可（若未关闭防火墙，请勾选![](./n2nphoto18.2.png)），设置完成后，点击![](./n2nphoto18.3.png)按钮，然后点击按钮![](./n2nphoto18.4.png)
 
 关闭系统防火墙的方法：https://jingyan.baidu.com/article/17bd8e52083ce685ab2bb839.html
 
