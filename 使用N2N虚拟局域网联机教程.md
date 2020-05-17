@@ -97,7 +97,7 @@ https://bugxia.com/1770.html
 
 参见教程：https://wenku.baidu.com/view/ae2c9245a8956bec0975e3d8.html
 
-若还有其他问题，请联系复仇时刻客服
+若还有其他问题，请联系服务器或者公测群的客服
 
 
 
