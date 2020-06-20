@@ -1,5 +1,7 @@
 ## 一、连接服务器所需的准备
 
+n2n下载：链接：https://pan.baidu.com/s/1y2nIMJZEiKDDk3QNfUm4IA  提取码：f95m
+
 - 1、解压压缩包到任意位置任意目录，打开
  ![](./n2nphoto11.png) 
 ![](./n2nphoto11.1.png)，双击执行 ![](./n2nphoto11.2.png) 安装程序，安装虚拟网卡 ，安装目录任意。若不理解英文可寻找翻译，安装过程略
