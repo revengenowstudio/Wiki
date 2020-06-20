@@ -1,6 +1,6 @@
 ## 一、连接服务器所需的准备
 
-n2n下载：链接：https://pan.baidu.com/s/1y2nIMJZEiKDDk3QNfUm4IA  提取码：f95m
+- **n2n下载：链接：https://pan.baidu.com/s/1y2nIMJZEiKDDk3QNfUm4IA  提取码：f95m**
 
 - 1、解压压缩包到任意位置任意目录，打开
  ![](./n2nphoto11.png) 
