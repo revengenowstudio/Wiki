@@ -260,7 +260,7 @@ jingyan.baidu.com/article/49711c61478e7bfa441b7cc0.html
 
 ## 制作人员信息及鸣谢
 
-（待更新）
+[!img](https://i0.hdslb.com/bfs/article/a28881b8e0b4d81b90427dbda314461cb7601666.png)
 
 ## ====联系我们====
 
