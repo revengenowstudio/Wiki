@@ -11,7 +11,7 @@
 
 - github用户注册教程：https://blog.csdn.net/relyeditor/article/details/85602142
 （建议使用**Microsoft Edge，Chrome或火狐浏览器**，部分浏览器会屏蔽github）
-- 提示：部分地区可能无法访问github，你可以尝试修改host文件（受不可抗力影响容易失效，需定期更新）或者开启vpn来尝试访问
+- 提示：国内部分地区用户可能无法访问github，你可以尝试修改host文件（受不可抗力影响容易失效，需定期更新）或者开启vpn来尝试访问
 
 
 ***
