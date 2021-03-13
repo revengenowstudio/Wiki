@@ -1,3 +1,5 @@
+[返回首页](./Home.md)
+
 ## 一、连接服务器所需的准备
 
 - **n2n下载：链接：https://pan.baidu.com/s/1y2nIMJZEiKDDk3QNfUm4IA  提取码：f95m**
@@ -93,3 +95,6 @@ https://bugxia.com/1770.html
 参见教程：https://wenku.baidu.com/view/ae2c9245a8956bec0975e3d8.html
 
 若还有其他问题，请联系复仇时刻服务群的客服或者复仇时刻公测群的客服
+
+***
+[返回目录](./常见问题指南.md)
